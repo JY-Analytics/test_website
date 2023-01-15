@@ -4,12 +4,10 @@
 format: jb-book
 root: Home
 parts:
-- caption: Projects
-  chapters:
-  - file: Projects/Spotify+Playlist+Comparison
-#  - file: start/build
-#  - file: start/publish
-#    sections:
-#      - file: publish/gh-pages
-#      - file: publish/netlify
-- caption: Book Reviews
+  - caption: Projects
+    chapters:
+    - file: Projects/Spotify+Playlist+Comparison
+#    - glob: unit1/Unit1*
+  - caption: Books
+#    chapters:
+#    - file: unit2/bayesian-statistics-overview
