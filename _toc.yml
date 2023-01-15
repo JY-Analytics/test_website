@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: Home
+parts:
+  - caption: Projects
+    chapters:
+    - file: Projects/Spotify+Playlist+Comparison.ipynb
+#  - caption: Book Reviews
+#    chapters:
+#    - file: unit2/bayesian-statistics-overview
+#    - glob: unit1/Unit1*  
