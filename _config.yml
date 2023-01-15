@@ -5,6 +5,8 @@ title: test_website
 author: Jason Young
 #logo: bayeslogo.png 
 #  may need to add logo later
+toc: true
+toc_sticky: true
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
