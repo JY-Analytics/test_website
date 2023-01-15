@@ -4,10 +4,6 @@
 format: jb-book
 root: Home
 parts:
-  - caption: Projects
-    chapters:
-    - file: Projects/Spotify+Playlist+Comparison.ipynb
-parts:
 - caption: Projects
   chapters:
   - file: Projects/Spotify+Playlist+Comparison
