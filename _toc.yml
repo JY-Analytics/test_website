@@ -7,7 +7,13 @@ parts:
   - caption: Projects
     chapters:
     - file: Projects/Spotify+Playlist+Comparison.ipynb
-#  - caption: Book Reviews
-#    chapters:
-#    - file: unit2/bayesian-statistics-overview
-#    - glob: unit1/Unit1*  
+parts:
+- caption: Projects
+  chapters:
+  - file: Projects/Spotify+Playlist+Comparison
+#  - file: start/build
+#  - file: start/publish
+#    sections:
+#      - file: publish/gh-pages
+#      - file: publish/netlify
+- caption: Book Reviews
